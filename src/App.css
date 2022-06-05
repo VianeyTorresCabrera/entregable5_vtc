@@ -679,6 +679,12 @@ div.th_text{
 
 /*=============================BREAKPOINTS==============================================*/
 
+@media only screen and (min-width:1550px){
+  .card{
+    height: 60vh;
+  }
+}
+
 
 @media only screen and (max-width:920px){
 
