@@ -2,7 +2,7 @@ import axios from "axios";
 import React, { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import ValidateColor from "./Color_card";
-import Pokedex from "./Pokedex";
+
 
 const PokemonCard = ({characterUrl}) => {
 
