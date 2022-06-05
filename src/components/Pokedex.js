@@ -2,7 +2,7 @@ import axios from 'axios';
 import React, { useEffect, useState } from 'react';
 import {useSelector} from 'react-redux';
 import PokemonCard from "./PokemonCard";
-import pokedex_logo from '../img/logo.svg'
+
 import {useNavigate} from 'react-router-dom'
 import Header2 from './Header2';
 import salir from '../img/exit.png'
